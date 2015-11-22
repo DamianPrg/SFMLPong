@@ -19,7 +19,7 @@
 #define LEVEL_PADDING_X 200
 #define PADDLE_WIDTH  22
 #define PADDLE_HEIGHT 100
-#define BALL_SIZE     11
+#define BALL_SIZE     12
 #define WINDOW_WIDTH  1024
 #define WINDOW_HEIGHT 720
 #define BALL_SPEED    320.0f
